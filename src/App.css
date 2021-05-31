@@ -13,17 +13,12 @@
   }
 }
 
-@media only screen and (min-width : 768px) {
-    width: 75%;
-    background-color: green;
-  }
+h1{
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 72px;
+  color: #0ccac4;
 
-  /* Medium Devices, Desktops */
-  @media only screen and (min-width : 992px) {
-    width: 50%;
-    background-color: pink;
-  }
-
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
